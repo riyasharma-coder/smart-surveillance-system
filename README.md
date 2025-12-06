@@ -211,7 +211,7 @@ Path tracking map
 
 👩‍💻 Author
 
-Riya Sharma and Aparna Dubey
+Riya Sharma
 AI & Full-Stack Developer
 🚀 Passionate about Computer Vision, AI Systems & Scalable Backends
 
@@ -221,3 +221,6 @@ If you like this project:
 
 ⭐ Star the repo
 📌 Follow to see updates
+
+
+
